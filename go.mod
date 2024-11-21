@@ -1,8 +1,7 @@
 module github.com/formancehq/auth
 
 go 1.22.0
-
-toolchain go1.22.7
+toolchain go1.23.3
 
 require (
 	github.com/formancehq/go-libs v1.7.1
@@ -13,7 +12,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.8.1
 	github.com/stretchr/testify v1.9.0
-	github.com/uptrace/bun v1.2.3
+	github.com/uptrace/bun v1.2.6
 	github.com/zitadel/logging v0.3.4
 	github.com/zitadel/oidc/v2 v2.12.2
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.55.0
@@ -126,7 +125,7 @@ require (
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/crypto v0.27.0 // indirect
 	golang.org/x/net v0.29.0 // indirect
-	golang.org/x/sys v0.25.0 // indirect
+	golang.org/x/sys v0.27.0 // indirect
 	golang.org/x/tools v0.25.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240903143218-8af14fe29dc1 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240903143218-8af14fe29dc1 // indirect
