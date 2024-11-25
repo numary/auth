@@ -19,7 +19,7 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.55.0
 	go.opentelemetry.io/otel v1.30.0
 	go.opentelemetry.io/otel/trace v1.30.0
-	go.uber.org/fx v1.22.2
+	go.uber.org/fx v1.23.0
 	golang.org/x/oauth2 v0.23.0
 	golang.org/x/text v0.18.0
 	gopkg.in/go-jose/go-jose.v2 v2.6.3
