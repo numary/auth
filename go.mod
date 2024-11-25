@@ -12,7 +12,7 @@ require (
 	github.com/oauth2-proxy/mockoidc v0.0.0-20220308204021-b9169deeb282
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.8.1
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/uptrace/bun v1.2.3
 	github.com/zitadel/logging v0.3.4
 	github.com/zitadel/oidc/v2 v2.12.2
