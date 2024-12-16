@@ -6,7 +6,7 @@ toolchain go1.22.7
 
 require (
 	github.com/formancehq/go-libs v1.7.1
-	github.com/go-chi/chi/v5 v5.1.0
+	github.com/go-chi/chi/v5 v5.2.0
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/uuid v1.6.0
 	github.com/oauth2-proxy/mockoidc v0.0.0-20220308204021-b9169deeb282
